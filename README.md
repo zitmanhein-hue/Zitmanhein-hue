@@ -11,5 +11,3 @@ I'm a young programmer from the Netherlands with a deep passion for understandin
 
 ---
 [![](https://komarev.com/ghpvc/?username=Zitmanhein-hue&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
